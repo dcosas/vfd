@@ -1,0 +1,1 @@
+This project was built for the Noritake CU20045 with MatrixOrbital VK204-25. Communication with the VFD is performed on RS232
